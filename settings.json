@@ -1,0 +1,38 @@
+{
+  "workbench.colorTheme": "Ayu Dark Bordered",
+  "workbench.iconTheme": "material-icon-theme",
+  "workbench.sideBar.location": "right",
+  "editor.minimap.enabled": false,
+  "security.workspace.trust.untrustedFiles": "open",
+  "editor.cursorBlinking": "expand",
+  "editor.linkedEditing": true,
+  "editor.guides.bracketPairs": true,
+  "breadcrumbs.enabled": false,
+  "editor.stickyScroll.enabled": true,
+  "editor.cursorSmoothCaretAnimation": "explicit",
+  "editor.tabSize": 2,
+  "window.zoomLevel": 0.5,
+  "editor.wordWrap": "on",
+  "emmet.includeLanguages": {
+      "javascript": "javascriptreact",
+      "typescript": "typescriptreact",
+      "markdown": "markdown"
+  },
+  "workbench.editor.showTabs": false,
+  "terminal.integrated.defaultProfile.windows": "Git Bash",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.overviewRulerBorder": false,
+  "editor.hideCursorInOverviewRuler": true,
+  "editor.formatOnSave": true,
+  "editor.guides.indentation": false,
+  "indenticator.width": 0.1,
+  "indenticator.color.dark": "rgba(255, 255, 255, 0.1)",
+  "editor.glyphMargin": false,
+  "workbench.statusBar.visible": false,
+  "workbench.activityBar.visible": false,
+  "editor.fontLigatures": true,
+  "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
+  "window.menuBarVisibility": "compact"
+}
+
+// explorerViewletVisible && filesExplorerFocus && !explorerResourceReadonly && !inputFocus
