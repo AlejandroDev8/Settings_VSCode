@@ -32,7 +32,9 @@
   "workbench.activityBar.visible": false,
   "editor.fontLigatures": true,
   "editor.fontFamily": "'Cascadia Code', Consolas, 'Courier New', monospace",
-  "window.menuBarVisibility": "compact"
+  "window.menuBarVisibility": "compact",
+  "workbench.layoutControl.enabled": false,
+  "window.commandCenter": false
 }
 
 // explorerViewletVisible && filesExplorerFocus && !explorerResourceReadonly && !inputFocus
